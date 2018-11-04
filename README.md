@@ -128,3 +128,4 @@ white-space: pre-line;
 ```
 <ion-tab [root]="tab6Root" tabTitle="المفضلة" tabIcon="heart" tabBadge="9"></ion-tab>
 ```
+white-space: normal !important;
